@@ -1,0 +1,19 @@
+# Default deny: keep backend, secrets, models and
+# unrelated files out of the frontend build context.
+*
+
+# Docker configuration
+!Dockerfile
+!.dockerignore
+!requirements.txt
+
+# Frontend
+!app.py
+!ntm_api_client.py
+!ntm_service_bridge.py
+!ui_contract.json
+
+# Approved branding and template
+!NTM_logo_web.png
+!YDOO-NTM-logo.png
+!NTM_Letterhead_Fillable_Correspondence.docx
