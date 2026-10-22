@@ -1,0 +1,136 @@
+{
+  "services": [
+    "Dashboard & Projects",
+    "Architectural Design Studio",
+    "Construction & Services",
+    "Smart Construction & IoT",
+    "Real Estate Services",
+    "Property Management",
+    "Cleaning Services",
+    "Professional Training",
+    "Consulting & Advisory",
+    "Logistics & Support",
+    "NTM Project Ownership",
+    "Quotations & Estimates",
+    "Proposal Builder",
+    "My Documents & Downloads",
+    "Staff Administration (Restricted)"
+  ],
+  "tools": {
+    "Architectural Design Studio": [
+      "2D Floor Planner",
+      "3D Building Studio",
+      "Project Brief & Dimensions",
+      "Room Schedule",
+      "Staircase & Vertical Core Planner",
+      "Interior / Exterior Design",
+      "Ceiling & Lighting Planner",
+      "Drawing Review & Validation",
+      "Geometry QA & 3D Sync",
+      "Architectural Booklet Draft"
+    ],
+    "Construction & Services": [
+      "Construction Scope Builder",
+      "Construction Assumptions & Exclusions",
+      "Construction Project Planner",
+      "Materials Schedule",
+      "Bill of Quantities",
+      "Construction Method Statement",
+      "Project Progress Report",
+      "Site Inspection Checklist",
+      "Quality Control Checklist",
+      "Health & Safety Plan"
+    ],
+    "Smart Construction & IoT": [
+      "Smart Building Requirements",
+      "IoT Device Schedule",
+      "Sensor & Automation Plan",
+      "System Integration Brief",
+      "Energy Monitoring Specification",
+      "Security & Access Control Plan"
+    ],
+    "Real Estate Services": [
+      "Property Listing Draft",
+      "Property Description Builder",
+      "Valuation Request",
+      "Site Visit Checklist",
+      "Sales & Leasing Proposal",
+      "Due Diligence Checklist"
+    ],
+    "Property Management": [
+      "Property Management Plan",
+      "Tenant Intake Form",
+      "Maintenance Request",
+      "Maintenance Schedule",
+      "Property Inspection",
+      "Monthly Property Report"
+    ],
+    "Cleaning Services": [
+      "Cleaning Scope of Work",
+      "Cleaning Service Proposal",
+      "Site Assessment",
+      "Cleaning Schedule",
+      "Consumables Checklist",
+      "Cleaning Quality Inspection"
+    ],
+    "Professional Training": [
+      "Training Needs Assessment",
+      "Course Outline",
+      "Training Proposal",
+      "Session Schedule",
+      "Participant Assessment",
+      "Training Report"
+    ],
+    "Consulting & Advisory": [
+      "Consultancy Brief",
+      "Feasibility Study Outline",
+      "Advisory Proposal",
+      "Technical Assessment",
+      "Risk Register",
+      "Recommendations Report"
+    ],
+    "Logistics & Support": [
+      "Logistics Work Order",
+      "Delivery / Mobilization Plan",
+      "Inventory Checklist",
+      "Procurement Support Brief",
+      "Dispatch & Handover Record"
+    ],
+    "NTM Project Ownership": [
+      "Project Intake",
+      "Ownership Register Draft",
+      "Project Authorization Request",
+      "Deliverable Ownership Checklist",
+      "Project Handover Register"
+    ],
+    "Quotations & Estimates": [
+      "BOQ Builder",
+      "Quote Draft",
+      "NTM Price List Reference",
+      "Live Price Market Research (backend pending)",
+      "Engineer / PM Pricing Approval (backend pending)"
+    ],
+    "Proposal Builder": [
+      "Technical Proposal",
+      "Construction Proposal",
+      "Architectural Design Proposal",
+      "Cleaning Services Proposal",
+      "Property Management Proposal",
+      "Real Estate Services Proposal",
+      "Training Proposal",
+      "Consulting Proposal",
+      "Logistics Proposal",
+      "Smart Building / IoT Proposal"
+    ],
+    "My Documents & Downloads": [
+      "Project Brief Export",
+      "Proposal DOCX Download",
+      "Document Register (backend pending)"
+    ],
+    "Staff Administration (Restricted)": [
+      "Staff Access Management (backend pending)",
+      "Approval Queue (backend pending)",
+      "Audit Trail (backend pending)"
+    ]
+  }
+}
