@@ -1,0 +1,34 @@
+{
+  "docker_build_verified": false,
+  "found_core_python_files": 0,
+  "full_system_deployable": false,
+  "generated_utc": "2026-10-22T00:25:25.674782+00:00",
+  "github_repository": "Raymuz/NTM-code",
+  "hugging_face_space": "raymuz/ntm-ai-assistant",
+  "missing_frontend_runtime_files": [],
+  "notes": "Source staging only; do not deploy this staging tree as the Space root.",
+  "original_40_tool_core_packaged": false,
+  "original_tool_http_execution_approved": false,
+  "project": "NTM v6.2",
+  "remote_staging_prefix": "deployment-prep/ntm-v62",
+  "runtime_tool_counts": {
+    "policy_entries": 40,
+    "registered_tools": 40
+  },
+  "staff_identity_issuer_complete": false,
+  "staged_files_sha256": {
+    "backend/.dockerignore": "18c8d8609290cfd216d67470284f96811fa5b3378c9fcd5b4807117db8c4e598",
+    "backend/Dockerfile": "37cb71c4c02a32b3195c38aa0078fc8c39047faf0fb79e22a0f10f142bc0c48f",
+    "backend/api.py": "b3dd2a357cf8a796b52adb7281e97dff285666488a2316275b3828b57ab8beb2",
+    "backend/ntm_catalog.py": "4b5c1ab1d198759f6fe34f7268d448835ba9a34ecccd06ea9c2fb98a6ed05e37",
+    "backend/ntm_floor_plan_agent.py": "97937d0148c31a2e88ac5ac2aef584e133d2d8f78ae4a5276d5a3dec9d7c847e",
+    "backend/ntm_master_1a_policy.py": "95421b1eb51514eeede4b4bbdc46b9c4aef164854fe160fce97c0914efb5fd4e",
+    "backend/ntm_verified_content.py": "70308cbe6e7bf5e010a93f4c7ad7491234e985dd6fcf10235fe6b418fffa266f",
+    "backend/ntm_verified_runtime.py": "aa0f7a4bf5050751466d69da618c37ef2041c2b839de331bf53ad0736b9d4397",
+    "backend/requirements.txt": "dfa27a3916125c6afec2f911f8d965ea2a3b879d1dfb240a7f7ed76e87d16207",
+    "backend/ui_contract.json": "dcd8aac4290ada3cee5342fef68ffd6d2c5f33e83b5de9a7af2e3cb3a7fd3ce3",
+    "frontend/.dockerignore": "87cb2b87e3b985b8124ab07c630c248a5e0b92b84945db929e01cfe967e34b30",
+    "frontend/Dockerfile": "4606c98ace48a8aea735910bc84c60351d62b4f464b23dead7bfaee18d4bbaa3",
+    "frontend/requirements.txt": "b3a4caf470dc306449fea9eb5dca022de0e0f1ee576ca9c2424dea16a9b38863"
+  }
+}
