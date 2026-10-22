@@ -1,0 +1,28 @@
+# Default-deny build context
+*
+
+# Docker configuration
+!Dockerfile
+!.dockerignore
+
+# Approved backend source
+!api.py
+!ntm_catalog.py
+!ntm_verified_runtime.py
+!ntm_verified_content.py
+!ntm_floor_plan_agent.py
+!ntm_master_1a_policy.py
+!ui_contract.json
+!requirements.txt
+
+# Explicit defense in depth
+.env
+.env.*
+*.pem
+*.key
+*.jsonl
+*.ipynb
+__pycache__
+*.pyc
+.venv*
+.ntm*
